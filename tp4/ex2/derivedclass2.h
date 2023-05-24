@@ -1,0 +1,4 @@
+#ifndef DERIVED_CLASS_2_H
+#define DERIVED_CLASS_2_H
+
+#endif // DERIVED_CLASS_2_H

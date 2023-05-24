@@ -1,0 +1,393 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						6
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "tp1",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-tp1-Debug-9779a8780b6a8d546dde.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "tp1"
+				},
+				{
+					"build" : "tp1/ex1",
+					"jsonFile" : "directory-tp1.ex1-Debug-cb3a6c4bc0a842e9b3a0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "tp1/ex1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "tp1/ex2",
+					"jsonFile" : "directory-tp1.ex2-Debug-2476e1d4bc4885f130f3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "tp1/ex2",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "tp1/ex3",
+					"jsonFile" : "directory-tp1.ex3-Debug-dbbe8be366311f94f851.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 4,
+					"source" : "tp1/ex3",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "tp1/ex4",
+					"jsonFile" : "directory-tp1.ex4-Debug-8e8337968d59b905a83d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 5,
+					"source" : "tp1/ex4",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "tp2",
+					"childIndexes" : 
+					[
+						7,
+						8,
+						9,
+						10
+					],
+					"jsonFile" : "directory-tp2-Debug-1b8390192bd645dbde81.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "tp2"
+				},
+				{
+					"build" : "tp2/ex1",
+					"jsonFile" : "directory-tp2.ex1-Debug-26430ab762b49abddc37.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 7,
+					"source" : "tp2/ex1",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "tp2/ex2",
+					"jsonFile" : "directory-tp2.ex2-Debug-6ae59d1e618e5bc61941.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 8,
+					"source" : "tp2/ex2",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "tp2/ex3",
+					"jsonFile" : "directory-tp2.ex3-Debug-5ee66c7b34347fc73800.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 9,
+					"source" : "tp2/ex3",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "tp2/ex4",
+					"jsonFile" : "directory-tp2.ex4-Debug-ce612e246f099ae4581e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 10,
+					"source" : "tp2/ex4",
+					"targetIndexes" : 
+					[
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						6
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "programmation_avancee_tps"
+				},
+				{
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "programmation_avancee_tp1",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "tp1ex1",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "tp1ex2",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "tp1ex3",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "tp1ex4",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						7,
+						8,
+						9,
+						10
+					],
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "programmation_avancee_tp2",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "tp2ex1",
+					"parentIndex" : 6,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "tp2ex2",
+					"parentIndex" : 6,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "tp2ex3",
+					"parentIndex" : 6,
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						10
+					],
+					"name" : "tp2ex4",
+					"parentIndex" : 6,
+					"targetIndexes" : 
+					[
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "tp1ex1::@d1b5141ae07a1a80cd87",
+					"jsonFile" : "target-tp1ex1-Debug-aace16cd938ae000c582.json",
+					"name" : "tp1ex1",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "tp1ex2::@531ef8abb9d45837291b",
+					"jsonFile" : "target-tp1ex2-Debug-4fbd9dde27ea7560592d.json",
+					"name" : "tp1ex2",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "tp1ex3::@e69895b7fec0d6f88fa1",
+					"jsonFile" : "target-tp1ex3-Debug-8af239edc7f91b3ae9c9.json",
+					"name" : "tp1ex3",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "tp1ex4::@b0378e74f2b9ea30d3e9",
+					"jsonFile" : "target-tp1ex4-Debug-de882562d53fb1d42bfb.json",
+					"name" : "tp1ex4",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "tp2ex1::@144f11d944b3a69676e4",
+					"jsonFile" : "target-tp2ex1-Debug-c3a37663f58e282f89d3.json",
+					"name" : "tp2ex1",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "tp2ex2::@16ecfc1949a880d955e8",
+					"jsonFile" : "target-tp2ex2-Debug-09aaee251b063c5f614b.json",
+					"name" : "tp2ex2",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "tp2ex3::@a4687a8de93c9607c228",
+					"jsonFile" : "target-tp2ex3-Debug-59d176e30f2c4bd7a6ae.json",
+					"name" : "tp2ex3",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "tp2ex4::@6dc42a0ee48624fb7ca6",
+					"jsonFile" : "target-tp2ex4-Debug-d526df5967aa7d9bfb3a.json",
+					"name" : "tp2ex4",
+					"projectIndex" : 10
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/nderousseaux/Code/tps-prog/build",
+		"source" : "/Users/nderousseaux/Code/tps-prog"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

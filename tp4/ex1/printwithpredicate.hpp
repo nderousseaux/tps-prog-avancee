@@ -1,0 +1,1 @@
+#include "printwithpredicate.h" // For IDE auto-completion

@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/tp1ex4.dir/person.cpp.o CMakeFiles/tp1ex4.dir/student.cpp.o CMakeFiles/tp1ex4.dir/main.cpp.o -o tp1ex4 

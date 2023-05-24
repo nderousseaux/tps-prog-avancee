@@ -1,0 +1,97 @@
+[
+{
+  "directory": "/Users/nderousseaux/Code/tps-prog/build/tp1/ex1",
+  "command": "/usr/bin/clang++  -I/Users/nderousseaux/Code/tps-prog/tp1/ex1 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/tp1ex1.dir/university.cpp.o -c /Users/nderousseaux/Code/tps-prog/tp1/ex1/university.cpp",
+  "file": "/Users/nderousseaux/Code/tps-prog/tp1/ex1/university.cpp"
+},
+{
+  "directory": "/Users/nderousseaux/Code/tps-prog/build/tp1/ex1",
+  "command": "/usr/bin/clang++  -I/Users/nderousseaux/Code/tps-prog/tp1/ex1 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/tp1ex1.dir/main.cpp.o -c /Users/nderousseaux/Code/tps-prog/tp1/ex1/main.cpp",
+  "file": "/Users/nderousseaux/Code/tps-prog/tp1/ex1/main.cpp"
+},
+{
+  "directory": "/Users/nderousseaux/Code/tps-prog/build/tp1/ex2",
+  "command": "/usr/bin/clang++  -I/Users/nderousseaux/Code/tps-prog/tp1/ex2 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/tp1ex2.dir/person.cpp.o -c /Users/nderousseaux/Code/tps-prog/tp1/ex2/person.cpp",
+  "file": "/Users/nderousseaux/Code/tps-prog/tp1/ex2/person.cpp"
+},
+{
+  "directory": "/Users/nderousseaux/Code/tps-prog/build/tp1/ex2",
+  "command": "/usr/bin/clang++  -I/Users/nderousseaux/Code/tps-prog/tp1/ex2 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/tp1ex2.dir/student.cpp.o -c /Users/nderousseaux/Code/tps-prog/tp1/ex2/student.cpp",
+  "file": "/Users/nderousseaux/Code/tps-prog/tp1/ex2/student.cpp"
+},
+{
+  "directory": "/Users/nderousseaux/Code/tps-prog/build/tp1/ex2",
+  "command": "/usr/bin/clang++  -I/Users/nderousseaux/Code/tps-prog/tp1/ex2 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/tp1ex2.dir/main.cpp.o -c /Users/nderousseaux/Code/tps-prog/tp1/ex2/main.cpp",
+  "file": "/Users/nderousseaux/Code/tps-prog/tp1/ex2/main.cpp"
+},
+{
+  "directory": "/Users/nderousseaux/Code/tps-prog/build/tp1/ex3",
+  "command": "/usr/bin/clang++  -I/Users/nderousseaux/Code/tps-prog/tp1/ex3 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/tp1ex3.dir/person.cpp.o -c /Users/nderousseaux/Code/tps-prog/tp1/ex3/person.cpp",
+  "file": "/Users/nderousseaux/Code/tps-prog/tp1/ex3/person.cpp"
+},
+{
+  "directory": "/Users/nderousseaux/Code/tps-prog/build/tp1/ex3",
+  "command": "/usr/bin/clang++  -I/Users/nderousseaux/Code/tps-prog/tp1/ex3 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/tp1ex3.dir/student.cpp.o -c /Users/nderousseaux/Code/tps-prog/tp1/ex3/student.cpp",
+  "file": "/Users/nderousseaux/Code/tps-prog/tp1/ex3/student.cpp"
+},
+{
+  "directory": "/Users/nderousseaux/Code/tps-prog/build/tp1/ex3",
+  "command": "/usr/bin/clang++  -I/Users/nderousseaux/Code/tps-prog/tp1/ex3 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/tp1ex3.dir/main.cpp.o -c /Users/nderousseaux/Code/tps-prog/tp1/ex3/main.cpp",
+  "file": "/Users/nderousseaux/Code/tps-prog/tp1/ex3/main.cpp"
+},
+{
+  "directory": "/Users/nderousseaux/Code/tps-prog/build/tp1/ex4",
+  "command": "/usr/bin/clang++  -I/Users/nderousseaux/Code/tps-prog/tp1/ex4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/tp1ex4.dir/person.cpp.o -c /Users/nderousseaux/Code/tps-prog/tp1/ex4/person.cpp",
+  "file": "/Users/nderousseaux/Code/tps-prog/tp1/ex4/person.cpp"
+},
+{
+  "directory": "/Users/nderousseaux/Code/tps-prog/build/tp1/ex4",
+  "command": "/usr/bin/clang++  -I/Users/nderousseaux/Code/tps-prog/tp1/ex4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/tp1ex4.dir/student.cpp.o -c /Users/nderousseaux/Code/tps-prog/tp1/ex4/student.cpp",
+  "file": "/Users/nderousseaux/Code/tps-prog/tp1/ex4/student.cpp"
+},
+{
+  "directory": "/Users/nderousseaux/Code/tps-prog/build/tp1/ex4",
+  "command": "/usr/bin/clang++  -I/Users/nderousseaux/Code/tps-prog/tp1/ex4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/tp1ex4.dir/main.cpp.o -c /Users/nderousseaux/Code/tps-prog/tp1/ex4/main.cpp",
+  "file": "/Users/nderousseaux/Code/tps-prog/tp1/ex4/main.cpp"
+},
+{
+  "directory": "/Users/nderousseaux/Code/tps-prog/build/tp2/ex1",
+  "command": "/usr/bin/clang++  -I/Users/nderousseaux/Code/tps-prog/tp2/ex1 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/tp2ex1.dir/test_list.cpp.o -c /Users/nderousseaux/Code/tps-prog/tp2/ex1/test_list.cpp",
+  "file": "/Users/nderousseaux/Code/tps-prog/tp2/ex1/test_list.cpp"
+},
+{
+  "directory": "/Users/nderousseaux/Code/tps-prog/build/tp2/ex1",
+  "command": "/usr/bin/clang++  -I/Users/nderousseaux/Code/tps-prog/tp2/ex1 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/tp2ex1.dir/main.cpp.o -c /Users/nderousseaux/Code/tps-prog/tp2/ex1/main.cpp",
+  "file": "/Users/nderousseaux/Code/tps-prog/tp2/ex1/main.cpp"
+},
+{
+  "directory": "/Users/nderousseaux/Code/tps-prog/build/tp2/ex2",
+  "command": "/usr/bin/clang++  -I/Users/nderousseaux/Code/tps-prog/tp2/ex2 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/tp2ex2.dir/test_vector.cpp.o -c /Users/nderousseaux/Code/tps-prog/tp2/ex2/test_vector.cpp",
+  "file": "/Users/nderousseaux/Code/tps-prog/tp2/ex2/test_vector.cpp"
+},
+{
+  "directory": "/Users/nderousseaux/Code/tps-prog/build/tp2/ex2",
+  "command": "/usr/bin/clang++  -I/Users/nderousseaux/Code/tps-prog/tp2/ex2 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/tp2ex2.dir/main.cpp.o -c /Users/nderousseaux/Code/tps-prog/tp2/ex2/main.cpp",
+  "file": "/Users/nderousseaux/Code/tps-prog/tp2/ex2/main.cpp"
+},
+{
+  "directory": "/Users/nderousseaux/Code/tps-prog/build/tp2/ex3",
+  "command": "/usr/bin/clang++  -I/Users/nderousseaux/Code/tps-prog/tp2/ex3 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/tp2ex3.dir/test_map.cpp.o -c /Users/nderousseaux/Code/tps-prog/tp2/ex3/test_map.cpp",
+  "file": "/Users/nderousseaux/Code/tps-prog/tp2/ex3/test_map.cpp"
+},
+{
+  "directory": "/Users/nderousseaux/Code/tps-prog/build/tp2/ex3",
+  "command": "/usr/bin/clang++  -I/Users/nderousseaux/Code/tps-prog/tp2/ex3 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/tp2ex3.dir/main.cpp.o -c /Users/nderousseaux/Code/tps-prog/tp2/ex3/main.cpp",
+  "file": "/Users/nderousseaux/Code/tps-prog/tp2/ex3/main.cpp"
+},
+{
+  "directory": "/Users/nderousseaux/Code/tps-prog/build/tp2/ex4",
+  "command": "/usr/bin/clang++  -I/Users/nderousseaux/Code/tps-prog/tp2/ex4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/tp2ex4.dir/test_unordered_containers.cpp.o -c /Users/nderousseaux/Code/tps-prog/tp2/ex4/test_unordered_containers.cpp",
+  "file": "/Users/nderousseaux/Code/tps-prog/tp2/ex4/test_unordered_containers.cpp"
+},
+{
+  "directory": "/Users/nderousseaux/Code/tps-prog/build/tp2/ex4",
+  "command": "/usr/bin/clang++  -I/Users/nderousseaux/Code/tps-prog/tp2/ex4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/tp2ex4.dir/main.cpp.o -c /Users/nderousseaux/Code/tps-prog/tp2/ex4/main.cpp",
+  "file": "/Users/nderousseaux/Code/tps-prog/tp2/ex4/main.cpp"
+}
+]
